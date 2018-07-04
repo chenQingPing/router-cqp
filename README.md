@@ -35,3 +35,4 @@ npm run build
 npm run prod
 ```
 "# router" 
+"# router-cqp" 
