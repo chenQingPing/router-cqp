@@ -1,0 +1,24 @@
+.rankList {
+ }
+  .rankList .rankItem {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    margin-left: 0%;
+    padding: 0 3%;
+    border-bottom: 1px solid #ccc;
+    color: #000;
+    background: transparent;
+  }
+    .rankList .rankItem .rankImg {
+      width: 60px;
+      height: 60px; }
+    .rankList .rankItem .rankName {
+      padding: 0 4%;
+      font-size: 16px;
+      width: 70%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap; }
+
+/*# sourceMappingURL=rank.css.map */
